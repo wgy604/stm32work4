@@ -1,0 +1,12 @@
+#ifndef APP_CONFIG_H
+#define APP_CONFIG_H
+
+#define OLED_ADDRESS 0U
+#define OLED_SH1106 0
+#define SERVO_MIN_US 550U
+#define SERVO_MAX_US 2450U
+#define SEQUENCE_HOLD_MS 1000U
+#define KEY_DEBOUNCE_MS 20U
+#define KEY_PRESSED GPIO_PIN_SET
+
+#endif
