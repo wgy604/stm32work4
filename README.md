@@ -4,7 +4,7 @@
 学号：20253008726
 
 作业标识：RM-2027-电控培训-作业-王国阳  
-GitHub 仓库名：RM-2027-diankong-peixun-zuoye-WangGuoyang
+GitHub 仓库名：stm32work4
 
 ## 功能
 
